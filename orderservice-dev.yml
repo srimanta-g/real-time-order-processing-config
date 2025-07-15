@@ -16,3 +16,8 @@ details:
   contact:
     - srimanta@gmail.com
     - +918110054321
+
+info:
+  service-name: order-service
+  port: 8080
+  current-env: development environment
